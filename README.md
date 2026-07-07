@@ -2,7 +2,7 @@
 
 A self-contained, single-file daily productivity planner with a focus on aesthetic calm, built entirely in HTML/CSS/JavaScript. No frameworks, no installation, no accounts required. Just open the file in any browser.
 
-**Live demo:** *(add your GitHub Pages link here once deployed)*
+**Live demo:** *(https://ashleework904-star.github.io/Daily-Desktop-Planner/)*
 
 ---
 
