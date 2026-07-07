@@ -6,10 +6,6 @@ A self-contained, single-file daily productivity planner with a focus on aesthet
 
 ---
 
-![Daily Planner Preview](preview.png)
-
----
-
 ## ✨ Features
 
 ### Today View
